@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\britt\\reposTC\\StaticExercise\\StaticExercise\\StaticExercise.csproj",
+      "projectUniqueName": "C:\\Users\\britt\\reposTC\\temperature-StaticExercise\\StaticExercise\\StaticExercise.csproj",
       "projectName": "StaticExercise",
-      "projectPath": "C:\\Users\\britt\\reposTC\\StaticExercise\\StaticExercise\\StaticExercise.csproj",
+      "projectPath": "C:\\Users\\britt\\reposTC\\temperature-StaticExercise\\StaticExercise\\StaticExercise.csproj",
       "packagesPath": "C:\\Users\\britt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\britt\\reposTC\\StaticExercise\\StaticExercise\\obj\\",
+      "outputPath": "C:\\Users\\britt\\reposTC\\temperature-StaticExercise\\StaticExercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\britt\\AppData\\Roaming\\NuGet\\NuGet.Config",
